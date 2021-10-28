@@ -2,7 +2,7 @@
 
 ## I'm an Economics student that have an insatiable desire for coding!!
 
-- 🌱 I’m specialized in Stata for causal identification relationship via methods such as Diff-in-Diff, IVs and Regression Discontinuity.
+- 🔭 I’m specialized in & currently working on Stata for causal identification via methods such as Diff-in-Diff, IVs and Regression Discontinuity.
 - 🌱 I’m working with Python in data cleansing & visualization, while having fun trying to automate boring stuff.
 - 🥅 Near future vision: Collaborating with others on Github projects!
 - ⚡ Fun fact: I'm obsessed with history and theology, and a hardcore fan of Voltaire (hence my name)!
