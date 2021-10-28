@@ -5,7 +5,7 @@
 - 🌱 I’m specialized in Stata for causal identification relationship via methods such as Diff-in-Diff, IVs and Regression Discontinuity
 - 🌱 I’m working with Python in data cleansing & visualization, while having fun trying to automate boring stuff
 - 🥅Vision: Collaborating with other Content creators
-- ⚡ Fun fact: I am obsessed with history and theology!
+- ⚡ Fun fact: I'm obsessed with history and theology!
 
 ### Connect with me:
 
