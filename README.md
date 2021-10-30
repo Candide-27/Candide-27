@@ -7,6 +7,9 @@
 - 🥅 Near future vision: Collaborating with others on Github projects!
 - ⚡ Fun fact: I'm obsessed with history and theology, and a hardcore fan of Voltaire (hence my name)!
 
+## My latest project:
+https://github.com/Candide-27/SP500-highlow-tracking
+
 ### Connect with me:
 
 [<img align="left" alt="Candide-27 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
