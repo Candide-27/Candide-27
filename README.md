@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I'm obsessed with history and theology, and a hardcore fan of Voltaire (hence my name)!
 
 ## My latest small project:
-https://github.com/Candide-27/SP500-highlow-tracking
+https://github.com/Candide-27/Crypto-price-moving_average
 
 ### Connect with me:
 
